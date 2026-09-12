@@ -6,6 +6,3 @@ Movies
 Video Games
 Music
 Traveling
-Burgers
-Technology
-Coffee
